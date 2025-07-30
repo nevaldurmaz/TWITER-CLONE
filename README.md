@@ -45,8 +45,8 @@
 ## 📁 Projeyi Çalıştırmak
 
 ```bash
-git clone https://github.com/kullanici/twitter-clone
-cd twitter-clone
+git clone https://github.com/kullanici/twiter-clone
+cd twiter-clone
 npm install
 npm run dev
 ```
